@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello git3");
         System.out.println("hotfix dead");
         System.out.println("hotfix dead2");
+        System.out.println("master 冲突分支");
     }
 }
